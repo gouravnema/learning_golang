@@ -4,3 +4,6 @@
 !go.mod
 !notes
 !notes/*
+!dsa
+dsa/*
+!dsa/*.go
